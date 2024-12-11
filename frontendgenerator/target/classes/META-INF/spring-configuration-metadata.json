@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "github",
+      "type": "com.runbase.frontendgenerator.domain.utils.StrapiProperties",
+      "sourceType": "com.runbase.frontendgenerator.domain.utils.StrapiProperties"
+    },
+    {
+      "name": "github",
+      "type": "com.runbase.frontendgenerator.integration.github.GitHubProperties",
+      "sourceType": "com.runbase.frontendgenerator.integration.github.GitHubProperties"
+    },
+    {
+      "name": "vercel",
+      "type": "com.runbase.frontendgenerator.integration.vercel.VercelProperties",
+      "sourceType": "com.runbase.frontendgenerator.integration.vercel.VercelProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "github.owner",
+      "type": "java.lang.String",
+      "sourceType": "com.runbase.frontendgenerator.domain.utils.StrapiProperties"
+    },
+    {
+      "name": "github.owner",
+      "type": "java.lang.String",
+      "sourceType": "com.runbase.frontendgenerator.integration.github.GitHubProperties"
+    },
+    {
+      "name": "github.token",
+      "type": "java.lang.String",
+      "sourceType": "com.runbase.frontendgenerator.domain.utils.StrapiProperties"
+    },
+    {
+      "name": "github.token",
+      "type": "java.lang.String",
+      "sourceType": "com.runbase.frontendgenerator.integration.github.GitHubProperties"
+    },
+    {
+      "name": "github.url",
+      "type": "java.lang.String",
+      "sourceType": "com.runbase.frontendgenerator.domain.utils.StrapiProperties"
+    },
+    {
+      "name": "github.url",
+      "type": "java.lang.String",
+      "sourceType": "com.runbase.frontendgenerator.integration.github.GitHubProperties"
+    },
+    {
+      "name": "vercel.token",
+      "type": "java.lang.String",
+      "sourceType": "com.runbase.frontendgenerator.integration.vercel.VercelProperties"
+    },
+    {
+      "name": "vercel.url",
+      "type": "java.lang.String",
+      "sourceType": "com.runbase.frontendgenerator.integration.vercel.VercelProperties"
+    }
+  ],
+  "hints": []
+}
